@@ -1,4 +1,4 @@
-### Hi there 👋 feadelfia/
+### Hi there 👋 feadelfia/status 
 /1222
 <!--2255
 **tersar33/tersar33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... up 
+-->thanks, again.rb/
+well.yt, and 
